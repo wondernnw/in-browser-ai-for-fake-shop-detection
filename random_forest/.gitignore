@@ -1,0 +1,9 @@
+.idea
+
+__pycache__
+venv
+
+saved_model
+shop_data
+tfjs_model
+raw_data

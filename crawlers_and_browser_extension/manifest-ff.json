@@ -1,0 +1,42 @@
+{
+  "manifest_version": 3,
+  "name": "fake-shop-stop",
+  "description": "Browser extension protecting from scam-shops.",
+  "version": "1.0",
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "content_scripts": [
+    {
+      "js": ["content.js"],
+      "matches": ["<all_urls>"],
+      "match_about_blank": true,
+      "run_at": "document_start"
+    }
+  ],
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self'; script-src-elem 'self' 'wasm-eval'"
+  },
+  "permissions": ["tabs", "scripting"],
+  "host_permissions": ["<all_urls>"],
+  "action": {
+    "default_icon": {
+      "128": "icons/icon128.png"
+    },
+    "default_title": "Scan shop"
+  },
+  "icons": {
+    "128": "icons/icon128.png"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "fake-shop-stop@ningningwang.de"
+    }
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["dist/*.map", "static/*"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}
