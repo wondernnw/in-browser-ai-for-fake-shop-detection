@@ -23,6 +23,7 @@ dist-ssr
 *.sln
 *.sw?
 
-data
+data/*
+!data/shop_data_analysis_unscaled.csv
 out
 *.zip

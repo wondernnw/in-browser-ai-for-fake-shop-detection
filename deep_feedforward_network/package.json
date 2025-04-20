@@ -7,7 +7,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "node --experimental-strip-types src/main.ts"
+    "start": "node --experimental-strip-types src/main.ts"
   },
   "devDependencies": {
     "@types/papaparse": "^5.3.15",
