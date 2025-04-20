@@ -1,0 +1,84 @@
+{
+  "url": "http://bearbuttteam.com/",
+  "isFake": false,
+  "links": [],
+  "prices": [
+    {
+      "price": 44.97,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 59.97,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 34.97,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 49.97,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 35.97,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 34.97,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 49.97,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 34.97,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 49.97,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 29.97,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 39.97,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    }
+  ]
+}

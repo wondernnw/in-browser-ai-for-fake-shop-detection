@@ -1,0 +1,126 @@
+{
+  "url": "http://boxing-us.com/",
+  "isFake": true,
+  "links": [],
+  "prices": [
+    {
+      "price": 0,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 89.66,
+      "code": "USD",
+      "discount": 0.5,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 90.66,
+      "code": "USD",
+      "discount": 0.75,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 92.66,
+      "code": "USD",
+      "discount": 0.59,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 97.66,
+      "code": "USD",
+      "discount": 0.49,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 89.66,
+      "code": "USD",
+      "discount": 0.5,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 99.66,
+      "code": "USD",
+      "discount": 0.72,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 92.66,
+      "code": "USD",
+      "discount": 0.59,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 97.66,
+      "code": "USD",
+      "discount": 0.49,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 95.66,
+      "code": "USD",
+      "discount": 0.67,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 96.66,
+      "code": "USD",
+      "discount": 0.43,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 89.66,
+      "code": "USD",
+      "discount": 0.3,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 97.66,
+      "code": "USD",
+      "discount": 0.36,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 99.66,
+      "code": "USD",
+      "discount": 0.36,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 98.66,
+      "code": "USD",
+      "discount": 0.42,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 98.66,
+      "code": "USD",
+      "discount": 0.71,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 49.66,
+      "code": "USD",
+      "discount": 0.29,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    }
+  ]
+}

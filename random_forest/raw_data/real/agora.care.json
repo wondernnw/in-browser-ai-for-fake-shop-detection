@@ -1,0 +1,49 @@
+{
+  "url": "http://agora.care/",
+  "isFake": false,
+  "links": [],
+  "prices": [
+    {
+      "price": 1299,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 550,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 389,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 249,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 99,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 89,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    }
+  ]
+}

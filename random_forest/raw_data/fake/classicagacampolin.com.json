@@ -1,0 +1,343 @@
+{
+  "url": "http://classicagacampolin.com/",
+  "isFake": true,
+  "links": [],
+  "prices": [
+    {
+      "price": 334.99,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 99.99,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 322.99,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 97.99,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 384,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 96.99,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 239.95,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 98.99,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 324.99,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 98.99,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 117.99,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 82.59,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 179.99,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 97.99,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 104.95,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 73.47,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 172.95,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 98.99,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 179.95,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 97.99,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 169.95,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 98.99,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 349.95,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 97.99,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 184.95,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 98.99,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 192.95,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 97.99,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 169.95,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 98.99,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 199.95,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 95.99,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 121.95,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 85.37,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 91.95,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 64.37,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 249.95,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 99.99,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 224.95,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 99.99,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 67.95,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 47.57,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 172.95,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 98.99,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 289.94,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 98.99,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 98.95,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 69.27,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "url": "http://saturnmeds.net/",
+  "isFake": false,
+  "links": [
+    "https://gmpg.org/xfn/11",
+    "https://saturnmeds.com/",
+    "https://saturnmeds.com/feed/",
+    "https://saturnmeds.com/comments/feed/",
+    "https://saturnmeds.com/wp-json/",
+    "https://saturnmeds.com/wp-json/wp/v2/pages/8",
+    "https://saturnmeds.com/xmlrpc.php?rsd",
+    "https://saturnmeds.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsaturnmeds.com%2F",
+    "https://saturnmeds.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsaturnmeds.com%2F&format=xml",
+    "https://saturnmeds.com/wp-content/uploads/2024/06/cropped-Safeimagekit-resized-img1-32x32.png",
+    "https://saturnmeds.com/wp-content/uploads/2024/06/cropped-Safeimagekit-resized-img1-192x192.png",
+    "https://saturnmeds.com/wp-content/uploads/2024/06/cropped-Safeimagekit-resized-img1-180x180.png",
+    "https://saturnmeds.com/items/",
+    "https://saturnmeds.com/games/",
+    "https://saturnmeds.com/contact/",
+    "https://saturnmeds.com/order-tracking/",
+    "https://saturnmeds.com/spacenews/",
+    "https://saturnmeds.com/bounty/",
+    "https://saturnmeds.com/verified-reviews/",
+    "https://saturnmeds.com/guaranteed-refunds/",
+    "https://saturnmeds.com/sample-listings/",
+    "https://saturnmeds.com/faqs/",
+    "https://saturnmeds.com/tracking-information/",
+    "https://saturnmeds.com/do-we-scam/",
+    "https://saturnmeds.com/what-information-do-we-keep/",
+    "https://saturnmeds.com/wp-content/uploads/2024/06/Saturn-Logo.png",
+    "https://saturnmeds.com/cart/",
+    "https://saturnmeds.com/wp-content/uploads/2024/08/MARSHALL.gif",
+    "https://t.me/+WlkxLWcf_itkZTg5",
+    "https://saturnmeds.com/faqs",
+    "https://www.trustpilot.com/review/saturnmeds.net",
+    "https://www.instagram.com/thesaturnquest/",
+    "https://x.com/SaturnMeds",
+    "https://saturnmeds.com/wp-content/uploads/2024/11/bea.gif",
+    "https://saturnmeds.com/wp-content/plugins/lazy-loading-responsive-images/js/lazysizes.min.js?ver=1723812596"
+  ],
+  "prices": [
+    {
+      "price": 0,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 44.99,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 34.99,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 79.99,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 34.99,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 49.99,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    }
+  ]
+}

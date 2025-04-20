@@ -1,0 +1,91 @@
+{
+  "url": "http://bicyclecleaner-official.com/",
+  "isFake": true,
+  "links": [],
+  "prices": [
+    {
+      "price": 20.27,
+      "code": "EUR",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 4.87,
+      "code": "EUR",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 31.78,
+      "code": "EUR",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 12.57,
+      "code": "EUR",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 22.32,
+      "code": "EUR",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 9.77,
+      "code": "EUR",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 4.55,
+      "code": "EUR",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 5.57,
+      "code": "EUR",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 20.27,
+      "code": "EUR",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 4.87,
+      "code": "EUR",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 11.87,
+      "code": "EUR",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 31.78,
+      "code": "EUR",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    }
+  ]
+}

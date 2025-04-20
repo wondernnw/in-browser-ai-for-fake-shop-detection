@@ -1,0 +1,581 @@
+{
+  "url": "http://dedynafitsport.com/",
+  "isFake": true,
+  "links": [
+    "https://gmpg.org/xfn/11",
+    "https://www.dedynafitsport.com/xmlrpc.php",
+    "https://www.dedynafitsport.com/",
+    "https://www.dedynafitsport.com/feed/",
+    "https://www.dedynafitsport.com/comments/feed/",
+    "https://www.dedynafitsport.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+    "https://www.dedynafitsport.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+    "https://www.dedynafitsport.com/wp-content/plugins/selectpay-woocommrece/js/jquery.sweet-modal/jquery.sweet-modal.min.js?ver=1.1740480879",
+    "https://www.dedynafitsport.com/wp-content/plugins/selectpay-woocommrece/js/app.js?ver=1.1740480879",
+    "https://www.dedynafitsport.com/wp-json/",
+    "https://www.dedynafitsport.com/wp-json/wp/v2/pages/37",
+    "https://www.dedynafitsport.com/xmlrpc.php?rsd",
+    "https://www.dedynafitsport.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dedynafitsport.com%2F",
+    "https://www.dedynafitsport.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dedynafitsport.com%2F&format=xml",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/logo.png",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/go.png",
+    "https://www.dedynafitsport.com/wishlist/",
+    "https://www.dedynafitsport.com/my-account/",
+    "https://www.dedynafitsport.com/cart/",
+    "https://www.dedynafitsport.com/kleidung/",
+    "https://www.dedynafitsport.com/kleidung/damen-skikleidung/",
+    "https://www.dedynafitsport.com/kleidung/herren-skikleidung/",
+    "https://www.dedynafitsport.com/kleidung/zubehor-fur-kleidung/",
+    "https://www.dedynafitsport.com/laufkleidung/",
+    "https://www.dedynafitsport.com/laufkleidung/laufjacken/",
+    "https://www.dedynafitsport.com/laufkleidung/laufshirts/",
+    "https://www.dedynafitsport.com/laufkleidung/laufshorts/",
+    "https://www.dedynafitsport.com/laufkleidung/sport-bhs/",
+    "https://www.dedynafitsport.com/rabatt/",
+    "https://www.dedynafitsport.com/tourenski/",
+    "https://www.dedynafitsport.com/tourenski/ski/",
+    "https://www.dedynafitsport.com/tourenski/tourenbindungen/",
+    "https://www.dedynafitsport.com/tourenski/tourenskischuhe/",
+    "https://www.dedynafitsport.com/trail-running/",
+    "https://www.dedynafitsport.com/trail-running/trail-laufschuhe/",
+    "https://www.dedynafitsport.com/trail-running/trinkrucksacke/",
+    "https://www.dedynafitsport.com/zubehor/",
+    "https://www.dedynafitsport.com/zubehor/helme/",
+    "https://www.dedynafitsport.com/zubehor/rucksacke/",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/awsfsf.png",
+    "https://www.dedynafitsport.com/online-verkauf-trail-jacke-dynafit-alpine-gore-tex-m-jkt-army/",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/de49c7974cb78a4fafcbb2e2447f2323826828fa_E22DYNATEH2361953_0.jpeg",
+    "https://www.dedynafitsport.com/neuheiten-trail-jacke-dynafit-alpine-wind-2-m-jkt-storm-blue/",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/1996dc034554cce06fd2e8e368fdb822bac17af1_E22DYNATEH1361942_0.jpeg",
+    "https://www.dedynafitsport.com/gunstig-trail-jacke-dynafit-alpine-gore-tex-w-jkt-marine-blue/",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/3e926b88fbe0b45ba362fe1ca1dacd25e9824176_E22DYNATEH1361955_0.jpeg",
+    "https://www.dedynafitsport.com/gunstig-trail-jacke-dynafit-alpine-gore-tex-w-jkt-marine-blue-beet-red/",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/c5223369a2e8db864ee13ca1fc73f765806a0045_E22DYNATEH1361956_0.jpeg",
+    "https://www.dedynafitsport.com/neuheiten-trail-jacke-dynafit-alpine-wind-2-w-jkt-marine-blue-blueberry/",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/9a2cb6fd740edf3c020ba6cd353cce39ecc4d9c4_E22DYNATEH2361944_0.jpeg",
+    "https://www.dedynafitsport.com/online-verkauf-trail-jacke-dynafit-alpine-gore-tex-w-jkt-beet-red/",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/c946510a2f046fb1bedfea592210c4725a338e6f_E22DYNATEH1203725_0.jpeg",
+    "https://www.dedynafitsport.com/gunstig-trail-jacke-dynafit-alpine-wind-2-m-jkt-army/",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/f19fd35fbb911b11657a60ca6c9eb0dd6dd03351_E22DYNATEH1361941_0.jpeg",
+    "https://www.dedynafitsport.com/angebote-trail-jacke-dynafit-alpine-wind-2-w-jkt-hot-coral/",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/f309e9c652471552ba0d323fab730d28cd017522_E22DYNATEH2361943_0.jpeg",
+    "https://www.dedynafitsport.com/gunstig-touren-skischuhe-dynafit-seven-summits-mallard-lime-punch/",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/715ebc2d5799934a6d1eca835ca2b18c0f95949d_H23DYNACHA255900_0.jpeg",
+    "https://www.dedynafitsport.com/neuheiten-rucksack-dynafit-radical-28-backpack-hot-coral-blueberry/",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/6d0b8b66862d7ce50c91bc43decc0ae8aab6c94a_H23DYNAACC350931_DYNA0597639_0.jpeg",
+    "https://www.dedynafitsport.com/gunstig-funktionsjacke-dynafit-radical-infinium-hybrid-storm-blue/",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/ca3c88305ad3d3d893da4c108c67fc18f8ae6ff5_H23DYNATTH2261941_0.jpeg",
+    "https://www.dedynafitsport.com/werbeaktionen-sport-bh-dynafit-alpine-graphic-bra-nimbus/",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/5c66b5a1c6a0b6112589bb4ddb622704da1f720b_E22DYNAACC1203727_0.jpeg",
+    "https://www.dedynafitsport.com/rabatt-tourenbindung-dynafit-st-rotation-lite-10-natural-92mm/",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/6651457bb6c905f8d33aabeb5fefc13fa85cb51d_H23DYNAFIX256518_DYNA0597625_0.jpeg",
+    "https://www.dedynafitsport.com/angebote-touren-skischuhe-dynafit-seven-summits-w-boot-ocean-flamingo/",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/1cc03295ee900607c971a74e8e34aa9c578de8e0_H23DYNACHA258282_0.jpeg",
+    "https://www.dedynafitsport.com/online-verkauf-trailrunning-schuhe-dynafit-feline-sl-wmn-poseidon-silvretta/",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/ba08af8d6b9a0fb7d4183f65563329c26960e149_E22DYNACHA2206964_0.jpeg",
+    "https://www.dedynafitsport.com/gunstig-funktionshose-dynafit-beast-hybrid-pants-w-winter-moss/",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/1d98b76a782ae89d97499f70e0d2441e1906b991_H23DYNATTB2261616_0.jpeg",
+    "https://www.dedynafitsport.com/werbeaktionen-stirnband-dynafit-performance-dry-headband-fluo-orange/",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/2f186ef99e25448b266ef5e6e77f3c790657f6b8_H22DYNAACC203010_DYNS0015841_0.jpeg",
+    "https://www.dedynafitsport.com/online-verkauf-trail-t-shirt-dynafit-ultra-3-s-tech-w-pink-glo/",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/e0bf6da10169f182d5b865e697c3fda68b0ed344_E22DYNATEH2203706_0.jpeg",
+    "https://www.dedynafitsport.com/online-verkauf-steigeisen-dynafit-dna-crampon-neon-yellow/",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/c8df4666421c7b320f4881f8d78d913b05256593_H23DYNAACC255884_DYNA0597540_0.jpeg",
+    "https://www.dedynafitsport.com/online-verkauf-harscheisen-dynafit-speed-78mm-rouge/",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/af08a644487fc756b9dfe77c0a8ddb343319f1b4_H23DYNAACC255910_DYNS0014702_0.jpeg",
+    "https://www.dedynafitsport.com/angebote-trail-trinkweste-dynafit-sky-6-nimbus-black-out/",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/a32c8d89ddf11f4980d304a986ec19fcb426efdb_E22DYNAACC2203741_0.jpeg",
+    "https://www.dedynafitsport.com/gunstig-funktionsjacke-dynafit-radical-infinium-hybrid-dawn/",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/bdbade1dc0fe969aac811ad34fd2e4ebfa00303c_H23DYNATTH2261940_0.jpeg",
+    "https://www.dedynafitsport.com/neuheiten-mutze-dynafit-radical-beanie-alloy-melange/",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/c8f72e01a918a6eec244fcd777c1b0f33e195898_H22DYNAACC189818_DYNA0466918_0.jpeg",
+    "https://www.dedynafitsport.com/rabatt-trail-t-shirt-dynafit-sky-shirt-w-blueberry-marine-blue/",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/8ce35718f649474f42ac026d8cc65aeb6a48831e_E23DYNATTH3361983_0.jpeg",
+    "https://www.dedynafitsport.com/online-verkauf-ski-set-dynafit-seven-summits-st-radical-peaux/",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/7c0e00e561f804de77fa04d0bb779f17be3c9551_H21DYNAKSK003_0.jpeg",
+    "https://www.dedynafitsport.com/werbeaktionen-touren-skischuhe-dynafit-radical-pro-w-petrol-reef/",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/9e464ad19b539c77f38247c6031ac9458012cf48_H22DYNACHA208721_0.jpeg",
+    "https://www.dedynafitsport.com/gunstig-rucksack-dynafit-speed-253-backpack-army-blueberry/",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/dd75c51fa60e58ebdef58efba6c4785bed13f718_H23DYNAACC350932_DYNA0597682_0.jpeg",
+    "https://www.dedynafitsport.com/gunstig-funktionshose-dynafit-mercury-2-dst-m-black-out/",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/008f511726cf76c630f61b36fe6abd0f51957f99_H19DYNATTB005_0.jpeg",
+    "https://www.dedynafitsport.com/rabatt-sport-bh-dynafit-alpine-bra-poseidon-fluo-coral/",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/c366d666a3101ce452be038775ae162d288b4b73_E23DYNATTH3361957_0.jpeg",
+    "https://www.dedynafitsport.com/angebote-harscheisen-dynafit-120mm-rouge/",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/f6191c207db7ad8bf92e122f3940ca4900e20ec4_VH14DYNAACC005_0.jpeg",
+    "https://www.dedynafitsport.com/neuheiten-touren-skischuhe-dynafit-tlt-x-boot-frost-orange/",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/52ec3a25545a21b3878c8907a78684428cb4777e_H23DYNACHA218246_0.jpeg",
+    "https://www.dedynafitsport.com/gunstig-trailrunning-schuhe-dynafit-ultra-50-wmn/",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/df9ba039728094a591ffc1f9bbe191d76dc720e1_E22DYNACHA207031_0.jpeg",
+    "https://www.dedynafitsport.com/neuheiten-funktionshose-dynafit-radical-infinium-hybrid-pants-w-beet-red/",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/da124d8dbed1dad1f6f971caa0e7ca1697db43fe_H23DYNATTB2262283_0.jpeg",
+    "https://www.dedynafitsport.com/werbeaktionen-cap-dynafit-alpine-graphic-visor-cap-marine-blue/",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/575adbac5e09726dd63438b2f46b0edb12c40338_E22DYNAACC203014_DYNA0681932_0.jpeg",
+    "https://www.dedynafitsport.com/online-verkauf-rucksack-dynafit-radical-23-backpack-alloy-black-out/",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/a2361b7c8bb396a7aa79bd10b9e155891ccb0acf_H23DYNAACC350930_DYNA0597635_0-100x100.jpeg",
+    "https://www.dedynafitsport.com/rabatt-rucksack-dynafit-expedition-30-backack-lime-punch-black/",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/49b5f4521f9815ff5274f0a60b1248b1c22cbb48_H23DYNAACC350928_DYNA0314992_0-100x100.jpeg",
+    "https://www.dedynafitsport.com/rabatt-rucksack-dynafit-radical-23-backpack-marine-blue-blueberry/",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/9dacfa5c6b8589b6cdc4d3967c87907762a7e8a4_H23DYNAACC350930_DYNA0597637_0-100x100.jpeg",
+    "https://www.dedynafitsport.com/online-verkauf-rucksack-dynafit-radical-28-backpack-black-out-nimbus/",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/0d9b63425b1be5f013caa8f727d1472f53df8810_H23DYNAACC350931_DYNA0597638_0-100x100.jpeg",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/715ebc2d5799934a6d1eca835ca2b18c0f95949d_H23DYNACHA255900_0-100x100.jpeg",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/6d0b8b66862d7ce50c91bc43decc0ae8aab6c94a_H23DYNAACC350931_DYNA0597639_0-100x100.jpeg",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/ca3c88305ad3d3d893da4c108c67fc18f8ae6ff5_H23DYNATTH2261941_0-100x100.jpeg",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/9a2cb6fd740edf3c020ba6cd353cce39ecc4d9c4_E22DYNATEH2361944_0-100x100.jpeg",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/9e464ad19b539c77f38247c6031ac9458012cf48_H22DYNACHA208721_0-100x100.jpeg",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/da124d8dbed1dad1f6f971caa0e7ca1697db43fe_H23DYNATTB2262283_0-100x100.jpeg",
+    "https://www.dedynafitsport.com/online-kaufen-touren-skischuhe-dynafit-seven-summits/",
+    "https://www.dedynafitsport.com/wp-content/uploads/2023/03/3a607e2b955d612a3ff3f229c15ee80d04b936aa_VH21DYNACHA001_0-100x100.jpeg",
+    "https://www.dedynafitsport.com/checkout/",
+    "https://www.dedynafitsport.com/about-us/",
+    "https://www.dedynafitsport.com/faq/",
+    "https://www.dedynafitsport.com/ruckgabe-umtausch/",
+    "https://www.dedynafitsport.com/lieferung/",
+    "https://www.dedynafitsport.com/kontaktiere-uns/",
+    "https://www.dedynafitsport.com/datenschutzerklaerung/",
+    "https://www.dedynafitsport.com/bezahlverfahren/",
+    "https://www.dedynafitsport.com/versand-rucksendungen/",
+    "https://www.dedynafitsport.com/allgemeine-geschaftsbedingungen/",
+    "https://www.dedynafitsport.com/my-account/lost-password/",
+    "https://www.dedynafitsport.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0",
+    "https://www.dedynafitsport.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.3",
+    "https://www.dedynafitsport.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.6.3.1",
+    "https://www.dedynafitsport.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=6.3.1",
+    "https://www.dedynafitsport.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.6.3.1",
+    "https://www.dedynafitsport.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=6.3.1",
+    "https://www.dedynafitsport.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=6.3.1",
+    "https://www.dedynafitsport.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2",
+    "https://www.dedynafitsport.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=295a0d1d1e8168b25a51f884bffa7b33",
+    "https://www.dedynafitsport.com/wp-content/themes/flatsome/inc/integrations/wc-yith-wishlist/wishlist.js?ver=3.10.2",
+    "https://www.dedynafitsport.com/wp-content/themes/flatsome/inc/extensions/flatsome-live-search/flatsome-live-search.js?ver=3.14.3",
+    "https://www.dedynafitsport.com/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=b3c807cf00d38de8d7f31c1197eb135d",
+    "https://www.dedynafitsport.com/wp-content/themes/flatsome/assets/libs/packery.pkgd.min.js?ver=3.14.3",
+    "https://www.dedynafitsport.com/wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.selectBox.min.js?ver=1.2.0",
+    "https://www.dedynafitsport.com/wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.yith-wcwl.min.js?ver=3.3.0",
+    "https://www.dedynafitsport.com/wp-includes/js/underscore.min.js?ver=1.13.4",
+    "https://www.dedynafitsport.com/wp-includes/js/wp-util.min.js?ver=6.6.2",
+    "https://www.dedynafitsport.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=6.3.1"
+  ],
+  "prices": [
+    {
+      "price": 99.59,
+      "code": "EUR",
+      "discount": 0.6,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 94.59,
+      "code": "EUR",
+      "discount": 0.62,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 90.59,
+      "code": "EUR",
+      "discount": 0.3,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 92.59,
+      "code": "EUR",
+      "discount": 0.63,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 96.59,
+      "code": "EUR",
+      "discount": 0.61,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 90.59,
+      "code": "EUR",
+      "discount": 0.3,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 93.59,
+      "code": "EUR",
+      "discount": 0.57,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 90.59,
+      "code": "EUR",
+      "discount": 0.3,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 99.59,
+      "code": "EUR",
+      "discount": 0.78,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 95.59,
+      "code": "EUR",
+      "discount": 0.76,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 92.59,
+      "code": "EUR",
+      "discount": 0.63,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 55.59,
+      "code": "EUR",
+      "discount": 0.3,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 91.59,
+      "code": "EUR",
+      "discount": 0.8,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 98.59,
+      "code": "EUR",
+      "discount": 0.79,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 97.59,
+      "code": "EUR",
+      "discount": 0.3,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 13.59,
+      "code": "EUR",
+      "discount": 0.32,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 27.59,
+      "code": "EUR",
+      "discount": 0.31,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 90.59,
+      "code": "EUR",
+      "discount": 0.3,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 94.59,
+      "code": "EUR",
+      "discount": 0.8,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 89.59,
+      "code": "EUR",
+      "discount": 0.42,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 99.59,
+      "code": "EUR",
+      "discount": 0.33,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 24.59,
+      "code": "EUR",
+      "discount": 0.3,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 48.59,
+      "code": "EUR",
+      "discount": 0.3,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 96.59,
+      "code": "EUR",
+      "discount": 0.61,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 92.59,
+      "code": "EUR",
+      "discount": 0.67,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 31.59,
+      "code": "EUR",
+      "discount": 0.3,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 89.59,
+      "code": "EUR",
+      "discount": 0.7,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 96.59,
+      "code": "EUR",
+      "discount": 0.61,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 55.59,
+      "code": "EUR",
+      "discount": 0.3,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 91.59,
+      "code": "EUR",
+      "discount": 0.8,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 95.59,
+      "code": "EUR",
+      "discount": 0.77,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 97.59,
+      "code": "EUR",
+      "discount": 0.3,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 89.59,
+      "code": "EUR",
+      "discount": 0.67,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 13.59,
+      "code": "EUR",
+      "discount": 0.32,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 52.59,
+      "code": "EUR",
+      "discount": 0.3,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 48.59,
+      "code": "EUR",
+      "discount": 0.3,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 128.89,
+      "code": "EUR",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 90.59,
+      "code": "EUR",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 138.89,
+      "code": "EUR",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 97.59,
+      "code": "EUR",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 128.89,
+      "code": "EUR",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 90.59,
+      "code": "EUR",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 148.89,
+      "code": "EUR",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 95.59,
+      "code": "EUR",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 446.89,
+      "code": "EUR",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 99.59,
+      "code": "EUR",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 396.89,
+      "code": "EUR",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 95.59,
+      "code": "EUR",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 247.89,
+      "code": "EUR",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 92.59,
+      "code": "EUR",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 79.89,
+      "code": "EUR",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 55.59,
+      "code": "EUR",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 148.89,
+      "code": "EUR",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 99.59,
+      "code": "EUR",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 498.89,
+      "code": "EUR",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 99.59,
+      "code": "EUR",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 247.89,
+      "code": "EUR",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 99.59,
+      "code": "EUR",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 446.89,
+      "code": "EUR",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 99.59,
+      "code": "EUR",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    }
+  ]
+}

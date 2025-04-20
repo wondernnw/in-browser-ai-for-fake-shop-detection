@@ -1,0 +1,54 @@
+{
+  "url": "http://doorsorwindows.com/",
+  "isFake": true,
+  "links": [
+    "https://code.jquery.com/jquery-2.1.1.min.js",
+    "https://www.googletagmanager.com/gtag/js?id=",
+    "https://js.stripe.com/v3/",
+    "https://www.doorsorwindows.com/products/2024-amazon-warehouse-ruckgabepaletten-letzte-chance-zum-bestellen?variation=45"
+  ],
+  "prices": [
+    {
+      "price": 59.94,
+      "code": "EUR",
+      "discount": 0.09,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 623.56,
+      "code": "EUR",
+      "discount": 0.06,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 518.84,
+      "code": "EUR",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 179.93,
+      "code": "EUR",
+      "discount": 0.08,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 228.47,
+      "code": "EUR",
+      "discount": 0.2,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 78.98,
+      "code": "EUR",
+      "discount": 0.06,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    }
+  ]
+}

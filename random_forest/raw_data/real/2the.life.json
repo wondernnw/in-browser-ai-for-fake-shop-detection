@@ -1,0 +1,72 @@
+{
+  "url": "http://2the.life/",
+  "isFake": false,
+  "links": [
+    "https://widget.trustpilot.com/bootstrap/v5/tp.widget.sync.bootstrap.min.js?shop=9a73e6-2.myshopify.com",
+    "https://ecommplugins-trustboxsettings.trustpilot.com/9a73e6-2.myshopify.com.js?settings=1736071420109&shop=9a73e6-2.myshopify.com",
+    "https://ecommplugins-scripts.trustpilot.com/v2.1/js/header.min.js?settings=eyJrZXkiOiJLYWl6Q3llU05KMTQ1UGllIiwicyI6Im5vbmUifQ==&shop=9a73e6-2.myshopify.com",
+    "https://hidepaypal2-static.inscoder.com/st-hidepaypal-product-on.min.js?shop=9a73e6-2.myshopify.com",
+    "https://hidepaypal2-static.inscoder.com/st-hidepaypal-checkout.min.js?shop=9a73e6-2.myshopify.com",
+    "https://hidepaypal2-static.inscoder.com/st-hidepaypal-checkout-on.min.js?shop=9a73e6-2.myshopify.com",
+    "https://hidepaypal2-static.inscoder.com/st-hidepaypal-cart-on.min.js?shop=9a73e6-2.myshopify.com",
+    "https://invitejs.trustpilot.com/tp.min.js",
+    "https://cdn.shopify.com/",
+    "https://2the.life/",
+    "https://cdn.shopify.com/extensions/d8c4e391-fec0-4661-a672-3a4b33aaeaf3/zipchat-ai-chatbot-10/assets/zipchat.js",
+    "https://cdn.shopify.com/extensions/491a61fa-0a9b-4087-a72f-a8972058f482/avada-seo-suite-127/assets/flying-pages.js",
+    "https://monorail-edge.shopifysvc.com/",
+    "https://2the.life/cdn/wpm/bd996b560w734f31f6pceb6670bm452f95e0m.js",
+    "https://2the.life/cdn/shopifycloud/perf-kit/shopify-perf-kit-1.4.0.min.js",
+    "https://2the.life/cdn/shopifycloud/media-analytics/v0.1/analytics.js",
+    "https://2the.life/wpm@d996b560w734f31f6pceb6670bm452f95e0/app/web-pixel-610271387@bb488f4fe6500d2c9bba3ab22eaa32f2/pixel.modern.js",
+    "https://cdn.shopify.com/shopifycloud/checkout-web/assets/",
+    "https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js",
+    "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/polyfills.I3JIKAFZ.js",
+    "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/app.D5l4c8gz.js",
+    "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/page-OnePage.nQdpykK8.js",
+    "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/DeliveryMethodSelectorSection.CWRc9obX.js",
+    "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/useEditorShopPayNavigation.BSwrSykE.js",
+    "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/VaultedPayment.DIE-UHvT.js",
+    "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/LocalizationExtensionField.LA8rqilW.js",
+    "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/ShopPayOptInDisclaimer.C299Y72f.js",
+    "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/RememberMeDescriptionText.D73KH0Fg.js",
+    "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/UnavailableInBuyerLocationBanner.Do8i_-C7.js",
+    "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/PayButtonSection.TvUpRVMK.js",
+    "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/component-ShopPayVerificationSwitch.DRZmddkO.js",
+    "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/useSubscribeMessenger.CouxfX_u.js",
+    "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/index.DzuhxRKA.js",
+    "https://cdn.shopify.com/s/files/1/0628/2608/6555/files/2thelife_logo_color_7ecc7896-8a29-4526-b0e2-3dd0c7f400e4_x320.png?v=1726213909",
+    "https://www.facebook.com/profile.php?id=100093994955361",
+    "https://shopify.com/62826086555/account?locale=en&region_country=US",
+    "https://2the.life/cdn/shop/t/5/assets/component-product-card.js?v=149430477920099678571728934540",
+    "https://widget.trustpilot.com/trustboxes/56278e9abfbbba0bdcd568bc/index.html?templateId=56278e9abfbbba0bdcd568bc&businessunitId=66e104a22a179ac2a6178fd4#locale=en-US&styleHeight=100px&styleWidth=100%25",
+    "https://2the.life/cdn/shop/t/5/assets/component-native-video.js?v=5922960944063582091728934540",
+    "https://www.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore",
+    "https://hcaptcha.com/privacy",
+    "https://hcaptcha.com/terms",
+    "https://2the.life/wpm@d996b560w734f31f6pceb6670bm452f95e0/custom/web-pixel-shopify-custom-pixel@0290/sandbox/modern/"
+  ],
+  "prices": [
+    {
+      "price": 89.99,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 59.99,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 79.99,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    }
+  ]
+}

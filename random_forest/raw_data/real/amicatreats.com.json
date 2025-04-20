@@ -1,0 +1,144 @@
+{
+  "url": "http://amicatreats.com/",
+  "isFake": false,
+  "links": [
+    "https://amicatreats.com/wp-content/uploads/2023/06/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lBdo.woff",
+    "https://amicatreats.com/wp-content/uploads/2023/06/6xK3dSBYKcSV-LCoeQqfX1RYOo3aPA.woff",
+    "https://amicatreats.com/wp-content/uploads/2023/06/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rAkw.woff",
+    "https://amicatreats.com/wp-content/uploads/2023/06/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vAkw.woff",
+    "https://amicatreats.com/wp-content/uploads/2022/03/DSCF3063-1-1-e1647983455547.jpg",
+    "https://amicatreats.com/feed/",
+    "https://amicatreats.com/comments/feed/",
+    "https://amicatreats.com/wp-json/",
+    "https://amicatreats.com/wp-json/wp/v2/pages/15",
+    "https://amicatreats.com/xmlrpc.php?rsd",
+    "https://amicatreats.com/",
+    "https://amicatreats.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Famicatreats.com%2F",
+    "https://amicatreats.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Famicatreats.com%2F&format=xml",
+    "https://amicatreats.com/wp-content/uploads/2021/11/cropped-A4-500px-32x32.png",
+    "https://amicatreats.com/wp-content/uploads/2021/11/cropped-A4-500px-192x192.png",
+    "https://amicatreats.com/wp-content/uploads/2021/11/cropped-A4-500px-180x180.png",
+    "https://www.googletagmanager.com/",
+    "https://amicatreats.com/wp-content/uploads/2021/08/LogoTransparency2-232w.png",
+    "https://amicatreats.com/shop/",
+    "https://amicatreats.com/about-us/",
+    "https://amicatreats.com/faq/",
+    "https://amicatreats.com/privacy-policy/",
+    "https://amicatreats.com/wp-content/uploads/2021/08/Amicahvittprotein2-195w.png",
+    "https://amicatreats.com/wp-content/uploads/2021/08/Amicahvittomega-195w.png",
+    "https://amicatreats.com/wp-content/uploads/2021/08/AmicahvittB12-195w.png",
+    "https://amicatreats.com/wp-content/uploads/2021/08/Amicahvittnatural-195w.png",
+    "https://amicatreats.com/about-us",
+    "https://amicatreats.com/dog-treats/fish-biscuits/",
+    "https://amicatreats.com/dog-treats/fish-heart-treats/",
+    "https://amicatreats.com/dog-treats/redfish-chewing-chips/",
+    "https://amicatreats.com/dog-treats/mix-of-fish-treats/",
+    "https://amicatreats.com/dog-treats/chewie-wolffish-skin/",
+    "https://amicatreats.com/dog-treats/chewie-cod-skin/",
+    "https://amicatreats.com/dog-treats/omega-3-oil/",
+    "https://amicatreats.com/dog-treats/cod-liver-oil/",
+    "https://amicatreats.com/dog-treats/cod-lobster/",
+    "https://amicatreats.com/dog-treats/cod-skin-chewing-chips/",
+    "https://amicatreats.com/dog-treats/cod-shrimp-treats/",
+    "https://amicatreats.com/dog-treats/cod-herring-treats/",
+    "http://+1%20(740)%20971%202282/",
+    "https://amicatreats.com/terms-conditions/",
+    "https://www.facebook.com/amicadogtreats",
+    "https://www.instagram.com/amicadogtreats/",
+    "https://amicatreats.com/checkout/",
+    "https://amicatreats.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"
+  ],
+  "prices": [
+    {
+      "price": 9.79,
+      "code": "USD",
+      "discount": 0.3,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 11.89,
+      "code": "USD",
+      "discount": 0.3,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 8.39,
+      "code": "USD",
+      "discount": 0.3,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 6.99,
+      "code": "USD",
+      "discount": 0.3,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 10.49,
+      "code": "USD",
+      "discount": 0.3,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 8.39,
+      "code": "USD",
+      "discount": 0.3,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 9.03,
+      "code": "USD",
+      "discount": 0.3,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 9.73,
+      "code": "USD",
+      "discount": 0.3,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 6.99,
+      "code": "USD",
+      "discount": 0.3,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 7.69,
+      "code": "USD",
+      "discount": 0.3,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 6.99,
+      "code": "USD",
+      "discount": 0.3,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 6.99,
+      "code": "USD",
+      "discount": 0.3,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 0,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    }
+  ]
+}

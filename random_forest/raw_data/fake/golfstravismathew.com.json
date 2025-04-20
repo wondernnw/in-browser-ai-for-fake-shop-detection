@@ -1,0 +1,126 @@
+{
+  "url": "http://golfstravismathew.com/",
+  "isFake": true,
+  "links": [],
+  "prices": [
+    {
+      "price": 0,
+      "code": "USD",
+      "discount": 0,
+      "hasPercentage": false,
+      "hasLineThrough": false
+    },
+    {
+      "price": 26.88,
+      "code": "USD",
+      "discount": 0.29,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 24.88,
+      "code": "USD",
+      "discount": 0.29,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 24.88,
+      "code": "USD",
+      "discount": 0.29,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 20.88,
+      "code": "USD",
+      "discount": 0.3,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 24.88,
+      "code": "USD",
+      "discount": 0.29,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 41.88,
+      "code": "USD",
+      "discount": 0.3,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 24.88,
+      "code": "USD",
+      "discount": 0.29,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 24.88,
+      "code": "USD",
+      "discount": 0.29,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 93.88,
+      "code": "USD",
+      "discount": 0.37,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 62.88,
+      "code": "USD",
+      "discount": 0.3,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 66.88,
+      "code": "USD",
+      "discount": 0.3,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 66.88,
+      "code": "USD",
+      "discount": 0.3,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 24.88,
+      "code": "USD",
+      "discount": 0.29,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 97.88,
+      "code": "USD",
+      "discount": 0.41,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 62.88,
+      "code": "USD",
+      "discount": 0.3,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    },
+    {
+      "price": 69.88,
+      "code": "USD",
+      "discount": 0.3,
+      "hasPercentage": false,
+      "hasLineThrough": true
+    }
+  ]
+}

@@ -4,6 +4,5 @@ __pycache__
 venv
 
 saved_model
-shop_data
+shop_data/*.csv
 tfjs_model
-raw_data
