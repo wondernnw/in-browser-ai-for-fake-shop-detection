@@ -17,5 +17,14 @@ chrome.runtime.onMessage.addListener((msg) => {
     case 'fake-shop-start-crawl':
       void initiateCrawl()
       break
+    case 'fake-shop-stop-result':
+      console.info('Received result:', msg)
+      if (msg.data[0] < 0.5) {
+        window.alert(`I'm real (${msg.data[0]}).`)
+      } else {
+        window.alert(`I'm fake (${msg.data[0]})!`)
+      }
+
+      break
   }
 })

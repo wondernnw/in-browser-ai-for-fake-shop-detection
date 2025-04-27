@@ -142,7 +142,7 @@ function transformFeaturesToTensor(data) {
   return inputTensor
 }
 
-chrome.runtime.onMessage.addListener((msg, _sender, sendResponse) => {
+chrome.runtime.onMessage.addListener((msg, sender, sendResponse) => {
   switch (msg.action) {
     case 'fake-shop-stop-result': {
       const inferenceData = transformDataToFeatures(msg.data)
@@ -158,6 +158,8 @@ chrome.runtime.onMessage.addListener((msg, _sender, sendResponse) => {
         console.log('Inference result:', outputData)
 
         // TODO: set inference result icon
+
+        chrome.tabs.sendMessage(sender.tab.id, { action: 'fake-shop-stop-result', data: outputData })
       } else {
         console.error('Invalid output:', output)
       }
